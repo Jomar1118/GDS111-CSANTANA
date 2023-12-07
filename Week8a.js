@@ -15,8 +15,8 @@ setLevel(newLevel) {
 getLevel() {
     return this.level;
 }
-
 }
+
 const mario = new Player();
 mario.setName("Mario");
 mario.setLevel(9);
